@@ -1,0 +1,64 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "subtitle": "The platform where your ideas transform into reality. Explore limitless possibilities with unparalleled innovation.",
+        "title": "Unleashing Ultimate Creativity"
+      }
+    },
+    {
+      "id": "HeroSimpleCentered",
+      "variables": {
+        "subtitle": "The platform where your ideas transform into reality. Explore limitless possibilities with unparalleled innovation.",
+        "title": "Unleashing Ultimate Creativity"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "The platform where your ideas transform into reality. Explore limitless possibilities with unparalleled innovation.",
+        "title": "Unleashing Ultimate Creativity"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "The platform where your ideas transform into reality. Explore limitless possibilities with unparalleled innovation.",
+        "title": "Unleashing Ultimate Creativity"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "The platform where your ideas transform into reality. Explore limitless possibilities with unparalleled innovation.",
+        "title": "Unleashing Ultimate Creativity"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "The platform where your ideas transform into reality. Explore limitless possibilities with unparalleled innovation.",
+        "title": "Unleashing Ultimate Creativity"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "The platform where your ideas transform into reality. Explore limitless possibilities with unparalleled innovation.",
+        "title": "Unleashing Ultimate Creativity"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "The platform where your ideas transform into reality. Explore limitless possibilities with unparalleled innovation.",
+        "title": "Unleashing Ultimate Creativity"
+      }
+    }
+  ],
+  "theme": "minimal",
+  "font": "",
+  "title": "Unleashing Ultimate Creativity",
+  "subtitle": "The platform where your ideas transform into reality. Explore limitless possibilities with unparalleled innovation."
+}
